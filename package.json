@@ -1,14 +1,14 @@
 {
-  "name": "Employee-tracker",
+  "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Description",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Samm1911/Employee-Tracker"
+    "url": "git+https://github.com/Samm1911/Employee-Tracker.git"
   },
   "keywords": [],
   "author": "",
@@ -18,8 +18,8 @@
   },
   "homepage": "https://github.com/Samm1911/Employee-Tracker#readme",
   "dependencies": {
-    "inquirer": "^8.2.4",
-    "mysql2": "^3.5.0",
-    "react-scripts": "^2.1.8"
+    "inquirer": "^8.2.0",
+    "mysql2": "^3.7.0",
+    "react-scripts": "^5.0.1"
   }
 }
