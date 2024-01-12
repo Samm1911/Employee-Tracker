@@ -3,7 +3,6 @@
 ## Description
 
 This Employee Tracker allows anyone to manage their company in a easy and efficient manner. You can view, your employees, departments, roles, managers, salaries and add, update and remove those.
-I learned how to how to use sql to query the mysql database and also use those query's to create a terminal application.
 
 ## Table of Contents
 
@@ -34,8 +33,6 @@ You also have the options to update or even delete roles, if you click on those.
 If you choose quit, you will quit the application.
 
 This is a very useful tool to manage your employees!
-
-Happy managing!
 
 ## License
 
