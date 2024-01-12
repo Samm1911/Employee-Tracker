@@ -19,7 +19,7 @@ Copy this project into your repository, initialize npm ('npm init -y') and insta
 
 ## Usage
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1blwyCe6qDwiTcfsXwttk0JDW2AMHLx9z/view?usp=sharing)
 
 Run the application with 'node index.js' and choose one of the following options:
 
@@ -37,10 +37,6 @@ This is a very useful tool to manage your employees!
 
 Happy managing!
 
-
 ## License
 
 This is a MIT Licensed product.
-
-
-
